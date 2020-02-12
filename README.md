@@ -12,7 +12,7 @@ SPOD require Python3  (>=3.5) with the development header. The detailed install 
 
   ```
   git clone https://github.com/Code-Papers/SPOD
-  cd baselines
+  cd SPOD
   ```
 
 * Install SPOD
